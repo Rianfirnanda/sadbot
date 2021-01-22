@@ -15,22 +15,22 @@ const speed = require('performance-now');
 const apivhtear = 'YOUR_APIKEY';
 const apibarbar = 'YOYR_APIKEY';
 const tobzkey = 'YOUR_APIKEY';
-const BotName = 'SADBOTZ';
+const BotName = 'STARLINK BOT';
 const wa = 'https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU';
-const ow = 'RAMLAN';
+const ow = 'RIAN FIRNANDA';
 const eror = '[ERROR]';
-const nomorowner = '085559240360';
-const ovo = '0855-5924-0360';
-const pulsa = '0812-1444-1027';
-const dana = '0855-5924-0360';
-const gopay = '0855-5924-0360';
-const instagram = 'http://www.instagram.com/iamramlan_';
+const nomorowner = '081369960093';
+const ovo = '0896-0603-2177';
+const pulsa = '0896-0603-2177';
+const dana = '0896-0603-2177';
+const gopay = '0896-0603-2177';
+const instagram = 'http://www.instagram.com/rianfirnandaa_';
 const aktif = 'Tergantung internet';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
-  + 'FN:RAMLAN GANS\n' // NAMA GUE JANGAN DIHAPUS
+  + 'FN:RIAN GANS\n' // NAMA GUE JANGAN DIHAPUS
   + 'ORG:OWNER BOT;\n' // INI WEEM RAMLAN GANS
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //GUE CAPE TOD
+  + 'TEL;type=CELL;type=VOICE;waid=6281369960093:+62 896-0603-2177\n' //GUE CAPE TOD
   + 'END:VCARD' //JANGAN DIHAPUS WEEM RAMLAN GANS
 //
 const
@@ -62,7 +62,7 @@ conn.on('qr', qr => {
     {
       small: true
     });
-  console.log(`[ ${moment().format("HH:mm:ss")} ] SUBSCRIBE YT RAMLAN CHANNEL!`);
+  console.log(`[ ${moment().format("HH:mm:ss")} ] SUBSCRIBE YT Rian firnanda!`);
 });
 
 conn.on('credentials-updated', () => {
@@ -82,7 +82,7 @@ conn.on('message-status-update', json => {
 })
 setInterval(function () {
   for (i = 0; i < 3; i++) {
-    console.log(`[ ${moment().format("HH:mm:ss")} ] => Hallo I'm Ramlan :)`)
+    console.log(`[ ${moment().format("HH:mm:ss")} ] => Hallo I'm Rian :)`)
   }
 }, 15000)
 
